@@ -2,7 +2,9 @@
 
 This repo provides you with a starting point for build projects for finder.com.au
 
-It includes the following:
+If you need help with making decisions about your design and code, so it fits with finder.com.au's, take a look at our [styleguide](https://github.com/finderau/styleguide)
+
+The boilerplate includes the following:
 
 1. JSHint
 2. SCSS lint
